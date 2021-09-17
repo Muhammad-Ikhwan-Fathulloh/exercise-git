@@ -4,10 +4,15 @@ exercise-git
 # Sebutkan step step dan command line saat menginisasi menggunakan git hingga sampai ke push ke github
 
 git init
+<br>
 git add *
+<br>
 git status
+<br>
 git commit -m "perkembangan"
+<br>
 git remote add origin (isi repo)
+<br>
 git push -u origin (nama branch)
 
 
