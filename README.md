@@ -26,4 +26,5 @@ Revert akan akan mengambil kondisi file yang ada di masa lalu, kemudian menggabu
 # perbedaan git dan github
 
 git adalah cli yang didalamnya ada perintah linux untuk control 
+<br>
 github adalah sebuah layanan cloud untuk penyimpanan yang biasanya bernama repository
